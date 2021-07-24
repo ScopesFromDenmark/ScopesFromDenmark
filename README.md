@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://discord.gg/">
-    <img src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/16/0f6fa179-6d5b-4949-bcba-a1a89f9d6da9.jpg"></a>
+    <img src="https://www.e-spincorp.com/wp-content/uploads/2020/12/logo-hex-rays-banner-png.png"></a>
 </p>
 </p>
 
