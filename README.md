@@ -1,7 +1,6 @@
 <p align="center">
-  <h2 align="center">Tag En joek.</h2>
   <a href="https://discord.gg/">
-    <img src="https://stramkurs.dk/wp-content/uploads/2021/04/cropped-Stram-Kurs-Facebook-Cover-2-300x100.png"></a>
+    <img src="https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/16/0f6fa179-6d5b-4949-bcba-a1a89f9d6da9.jpg"></a>
 </p>
 </p>
 
