@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://discord.gg/cZkqyaRkb6">
+    <img src="https://stramkurs.dk/wp-content/uploads/2021/04/cropped-Stram-Kurs-Facebook-Cover-2-300x100.png"></a>
+</p>
+</p>
 
-<!--
-**ScopesFromDenmark/ScopesFromDenmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="center">My main programming languages.</h2>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/835652361715712020/842758450962366480/asgsdag.png"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Profile stats.</h2>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ScopesFromDenmark&show_icons=true&theme=dark&locale=en"/>
+<br />
+
+</pre>
