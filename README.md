@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://discord.gg/">
-    <img src="https://www.e-spincorp.com/wp-content/uploads/2020/12/logo-hex-rays-banner-png.png"></a>
-</p>
-</p>
+
 
 
 <h2 align="center">My main programming languages.</h2>
